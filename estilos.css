@@ -8,7 +8,7 @@
 body{
 	font-family: sans-serif;
 	font-size: 16px;
-	background: #00B7BD;
+	background:  #7e574f ;
 }
 
 .contenedor{
@@ -17,7 +17,7 @@ body{
 }
 
 header{	
-	background: #00B7BD;
+	background: green;
 }
 
 header nav{
